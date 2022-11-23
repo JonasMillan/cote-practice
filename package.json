@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cote": "^0.20.1",
+    "cote": "^1.0.3",
     "express": "^4.17.1"
   }
 }
