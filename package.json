@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cote": "^0.20.1",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
